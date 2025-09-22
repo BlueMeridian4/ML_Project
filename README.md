@@ -1,14 +1,10 @@
 # ML_Project
-'''
 The objective of this project is to use ML techniques to identify joints on the human body, and then analyze them for positional advantages in the context of Brazilian Jiu Jitsu. 
-'''
 
 ## Tools
-'''
 - Python
 - OpenCV
 - MediaPipe
-'''
 
 ### Foundation
 1) Data Collection
