@@ -1,4 +1,4 @@
-# ML_Project
+# Pulpito_Luchador
 '''
 The objective of this project is to use ML techniques to identify joints on the human body, and then analyze them for positional advantages in the context of Brazilian Jiu Jitsu. 
 '''
